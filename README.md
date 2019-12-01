@@ -16,6 +16,6 @@ If you are using pip, you can execute:
 
 - Work on it and PUSH back
 
-  - **(Optional / Recommended)** CHECKOUT a branch (based on the latest commit of the master branch), local COMMIT on your branch, and PUSH your branch to the origin when you finish your part. The branch name can be your name.
+  - **(Optional / Recommended)** CHECKOUT a branch (based on the first commit of the master branch), local COMMIT on your branch, and PUSH your branch to the origin when you finish your part. The branch name can be your name.
   
   - **(Work Around)** You can directly send your file to our slack channel. I will handle the merge manually.
