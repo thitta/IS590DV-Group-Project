@@ -1,0 +1,9 @@
+*.pyc
+*~
+*.sqlite3
+*.gcloudignore
+*production*
+
+__pycache__
+.DS_Store
+.idea
